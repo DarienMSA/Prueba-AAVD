@@ -1,2 +1,2 @@
-# Prueba-AAVD
-Prueba de AAVD
+# Cassandra-AAVD
+Solución, .cql y datos
